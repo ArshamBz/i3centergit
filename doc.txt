@@ -5,3 +5,9 @@ git add filename or git add -A
 git status
 
 git commit -m 'messages'
+
+git config --global user.email "you@example.com"
+
+git log
+
+git reset filename
