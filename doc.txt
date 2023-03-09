@@ -11,3 +11,5 @@ git config --global user.email "you@example.com"
 git log
 
 git reset filename
+
+git checkout -- filename
